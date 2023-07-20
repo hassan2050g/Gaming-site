@@ -208,6 +208,7 @@ header {
 .funny {
   margin-left: 164px;
   margin-right: 164px;
+  margin-bottom: 64px;
 }
 .funny-headings {
   display: flex;
