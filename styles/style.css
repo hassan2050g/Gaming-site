@@ -298,10 +298,26 @@ footer {
 
 /* game-types-design */
 
+.game-types {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-left: 164px;
+  margin-right: 164px;
+  margin-bottom: 64px;
+}
+
 .game-types figure {
   display: flex;
   align-items: center;
+  margin: 12px;
+
+  justify-content: center;
   /* justify-content: space-between; */
+}
+.game-types figure:hover {
+  border: 2px dotted rgba(250, 26, 153, 0.663);
+  border-radius: 50px;
+  cursor: pointer;
 }
 
 /* -------------------------------------responsive designs */
