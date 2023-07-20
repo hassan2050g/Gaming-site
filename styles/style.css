@@ -21,7 +21,6 @@ nav a {
 header {
   margin-left: 164px;
   margin-right: 164px;
-  /* border: 2px solid black; */
   display: flex;
 
   justify-content: space-between;
@@ -68,7 +67,6 @@ header {
 /* ----------------------goat styles----------------------- */
 
 .goat {
-  /* border: 2px solid black; */
   margin-left: 164px;
   margin-right: 164px;
 
@@ -146,7 +144,6 @@ header {
 
 /*----------------------------- horsman styles */
 .horsman {
-  border: 2px solid black;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   margin-left: 400px;
@@ -183,7 +180,6 @@ header {
 }
 
 .horsman-imag-box {
-  /* border: 2px solid black; */
   position: relative;
 }
 
@@ -210,7 +206,6 @@ header {
 /*-------------------------------------------funny video section */
 
 .funny {
-  border: 2px solid black;
   margin-left: 164px;
   margin-right: 164px;
 }
