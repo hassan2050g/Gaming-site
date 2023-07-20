@@ -296,6 +296,14 @@ footer {
   font-size: 16px;
 }
 
+/* game-types-design */
+
+.game-types figure {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
 /* -------------------------------------responsive designs */
 
 @media screen and (max-width: 576px) {
